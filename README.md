@@ -16,9 +16,10 @@
 
 🗺️: I speak both Brazilian Portuguese and English. However, I'm studying Japanese too!
 
-I use Arch, btw... 
+I use Arch Linux, btw... 
 
-
+Inline-style:
+(Charizard.gif)
 
 <!--
 **FireDragon9/FireDragon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
