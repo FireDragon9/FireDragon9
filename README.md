@@ -18,8 +18,8 @@
 
 I use Arch Linux, btw... 
 
-Inline-style:
-(Charizard.gif)
+<img width="498" height="372" alt="image" src="https://github.com/user-attachments/assets/eff0ec8c-09d3-4b93-bc48-28995c0ba154" />
+
 
 <!--
 **FireDragon9/FireDragon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
