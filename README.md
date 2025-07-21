@@ -18,6 +18,8 @@
 
 🐧: I use Arch Linux, btw... 
 
+📧: FireDragon9@tutamail.com
+
 <img width="332" height="248" alt="image" src="https://github.com/user-attachments/assets/eff0ec8c-09d3-4b93-bc48-28995c0ba154" /> <img width="332" height="248" alt="image" src="https://github.com/user-attachments/assets/669a92c0-fbe5-48bf-947b-a95e93cf1cf3" />
 
 
