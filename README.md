@@ -14,6 +14,8 @@
   2 - Structured Computer Organization;
   3 - Data Structures and Algorithms with C++.
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
 🗺️: I speak both Brazilian Portuguese and English. However, I'm studying Japanese too!
 
 🐧: I use Arch Linux, btw... 
