@@ -4,9 +4,13 @@
 
   My main goal is to be a Graphics Programmer and make Game Engines!
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
 👾: I'm also a console enthusiast. Not only the games, but the hardware it self!
 
   I love jailbreaking and I'm starting to learn making homebrew projects for the PS2.
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
 📚: Books that I'm currently studying:
 
