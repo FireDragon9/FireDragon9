@@ -14,9 +14,9 @@
 
 📚: Books that I'm currently studying:
 
-  1 - Learn OpenGL;
+  1 - Fundamentos da Matemática Elementar - Trigonometria;
   2 - Structured Computer Organization;
-  3 - Data Structures and Algorithms with C++.
+  3 - C++: How to Program.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
