@@ -1,6 +1,6 @@
 ## Welcome to my profile! 🐉🔥
 
-🐉: I'm a Software Engineering student at Universidade de Mogi das Cruzes and Computer Science self-taught!
+🐉: I'm a Software Engineering student at Universidade de Mogi das Cruzes and Computer Science self-taught at Universidade Brasileira Livre!
 
   My main goal is to be a Graphics Programmer and make Game Engines!
 
