@@ -8,7 +8,7 @@
 
 👾: I'm also a console enthusiast. Not only the games, but the hardware it self!
 
-  I love jailbreaking and I'm starting to learn making homebrew projects for the PS2.
+  I love jailbreaking and I want to learn how to make homebrew apps for them!
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
