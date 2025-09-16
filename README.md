@@ -14,7 +14,7 @@
 
 📚: Books that I'm currently studying:
 
-  1 - Fundamentos da Matemática Elementar - Trigonometria;
+  1 - Computação Gráfica - Volume Um;
   2 - Structured Computer Organization;
   3 - C++: How to Program.
 
