@@ -4,6 +4,7 @@
 
   My main goal is to be a Graphics Programmer and make Game Engines!
   I Also have a HUGE interest in Cybersecurity!
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 👾: I'm also a console enthusiast. Not only the games, but the hardware it self!
