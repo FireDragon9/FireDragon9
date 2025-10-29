@@ -15,9 +15,8 @@
 
 📚: Books that I'm currently studying:
 
-  1 - Computação Gráfica - Volume Um;
-  2 - Structured Computer Organization;
-  3 - C++: How to Program.
+  1 - Structured Computer Organization;
+  2 - C++: How to Program.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
