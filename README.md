@@ -6,20 +6,12 @@ My main goal is to be a computer scientist!
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-👾: I'm also a console enthusiast. Not only the games, but the hardware it self!
-
-  I love jailbreaking and I want to learn how to make homebrew apps for them!
-
---------------------------------------------------------------------------------------------------------------------------------------
-
 📚: Books that I'm currently studying:
 
   1 - Structured Computer Organization;
   2 - C++: How to Program.
 
 --------------------------------------------------------------------------------------------------------------------------------------
-
-🗺️: I speak both Brazilian Portuguese and English. However, I'm studying Japanese too!
 
 🐧: I use Arch Linux, btw... 
 
