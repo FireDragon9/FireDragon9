@@ -25,7 +25,7 @@ My main goal is to be a computer scientist!
 
 📧: FireDragon9@tutamail.com
 
-<img width="332" height="248" alt="image" src="https://static.wikia.nocookie.net/pokemon-radiance/images/6/6a/231_Charizard.png/revision/latest?cb=20200511095449">
+<img width="304" height="316" alt="image" src="https://static.wikia.nocookie.net/pokemon-radiance/images/6/6a/231_Charizard.png/revision/latest?cb=20200511095449">
 
 
 
