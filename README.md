@@ -2,8 +2,7 @@
 
 🐉: I'm a Software Engineering student at Universidade de Mogi das Cruzes and Computer Science self-taught at Universidade Brasileira Livre!
 
-  My main goal is to be a Graphics Programmer and make Game Engines!
-  I also have a HUGE interest in Cybersecurity!
+My main goal is to be a computer scientist!
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
