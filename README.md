@@ -2,7 +2,7 @@
 
 🐉: I'm a Software Engineering student at Universidade de Mogi das Cruzes and Computer Science self-taught!
 
-My main goal is to be a computer scientist and act at the academic field! (Perhaps, be a professor too? Who knows....)
+My main goal is to be a computer scientist and act at the academic field! (Perhaps be a professor too? Who knows....)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
